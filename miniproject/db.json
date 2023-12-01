@@ -1,0 +1,61 @@
+{
+    "products":[
+      {
+      "id": 1,
+      "name": "banh kem",
+      "price": 5000,
+      "quantity": 1,
+      "image":"https://hips.hearstapps.com/hmg-prod/images/2023-mclaren-artura-101-1655218102.jpg?crop=0.8889431489846579xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "name": "banh mi",
+      "price": 10000,
+      "quantity": 1,
+      "id": 2,
+      "image":"https://everland.vn/upload/news/original/tour-du-thuyen-xu-huong-du-lich-moi-hap-dan-du-khach-vietavartar-1663552031.jpg"
+    },
+    {
+      "name": "xe may",
+      "price": 100000,
+      "quantity": 1,
+      "id": 3,
+      "image":"https://tapchigiaothong.qltns.mediacdn.vn/tapchigiaothong.vn/files/thu.ha/2018/04/06/qua-me-2018-honda-super-cub-ban-do-scrambler-honda1-1522913854-width660height440-0910.jpg"
+    },
+    {
+      "name": "skateboard",
+      "price": 10000,
+      "quantity": 1,
+      "id": 4,
+      "image":"https://magnetoboards.com/cdn/shop/files/astronaut_27.png?v=1697041353&width=1445"
+    },
+    {
+      "name": "bapee",
+      "price": 200000,
+      "quantity": 1,
+      "id": 5,
+      "image":"https://p.globalsources.com/IMAGES/PDT/B5182690045/Hoodie.jpg"
+    },
+    {
+      "name": "fixed",
+      "price": 500000,
+      "quantity": 1,
+      "id": 6,
+      "image":"https://product.hstatic.net/200000051564/product/6546546_1_63a0dd5f40e64a9397f26930e163bae6_master.jpg"
+    },
+    {
+      "name": "air max",
+      "price": 1000000,
+      "quantity": 1,
+      "id": 7,
+      "image":"https://giaysneaker.store/media/magefan_blog/bo-suu-tap-nike-air-max-familia-cho-thang-di-san-nguoi-my-latinh.png"
+    },
+    {
+      "name": "wrxdie",
+      "price": 2000000,
+      "quantity": 1,
+      "id": 8,
+      "image":"https://i1.sndcdn.com/artworks-JcvAGMohqeyeuh5D-ygvSnQ-t500x500.jpg"
+    }
+    
+]
+}
